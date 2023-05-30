@@ -22,6 +22,7 @@ Food and drinks are no longer available as you should have ordered them before t
 I will announce next when the session starts, or if we need to delay. Thank you for being a part of the Waviez community!
 
 **If the server has less than 30 LRs, say the following. You should not delay for more than 10 minutes.**
+
 **If there are still not enough LRs after delaying, make a support ticket in Discord to have corporate cancel. You can not cancel on your own.**
 
 Due to the lack of LRs available, we will be delaying 10 minutes. Thank you for being patient.
@@ -35,6 +36,7 @@ The support command will now be disabled, and the server will be secured. No new
 If you disconnect during the session, only this server will let you join back. If you are gone for too long, your leave will expire and you will not be able to reconnect.
 
 **Use the `:secure` command to lock the server.**
+
 **Use the `:unsecure` command to unlock the server at the end of the training session.**
 
 During trainings, you should be meeting certain expectations. If you fail to do so, the assistants of your group will warn you and you will possibly fail the session.
