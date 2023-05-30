@@ -3,13 +3,15 @@ Welcome to [Waviez](https://waviez.rabitailleow.repl.co)! This page hosts guides
 
 ## Training Guide
 
-**Important concepts**
+### Important concepts
+
 Use the `!warn` command to warn a user.
+
 The `!unwarn` command is only available to Corporates and the Host.
 
 You should NOT announce anything other than what is listed here. Do NOT announce bold text.
 
-**10 minutes before the training, announce the following.**
+### 10 minutes before the training, announce the following.
 
 Hello, welcome to Waviez trainings. I am the host of this session.
 
@@ -21,13 +23,13 @@ Food and drinks are no longer available as you should have ordered them before t
 
 I will announce next when the session starts, or if we need to delay. Thank you for being a part of the Waviez community!
 
-**If the server has less than 30 LRs, say the following. You should not delay for more than 10 minutes.**
+### If the server has less than 30 LRs, say the following. You should not delay for more than 10 minutes.**
 
 **If there are still not enough LRs after delaying, make a support ticket in Discord to have corporate cancel. You can not cancel on your own.**
 
 Due to the lack of LRs available, we will be delaying 10 minutes. Thank you for being patient.
 
-**At the time of the training, announce the following.**
+### At the time of the training, announce the following.
 
 Welcome to Waviez trainings. The time is currently *(time)*. Please remain seated for the duration of the announcements.
 
