@@ -23,7 +23,7 @@ Food and drinks are no longer available as you should have ordered them before t
 
 I will announce next when the session starts, or if we need to delay. Thank you for being a part of the Waviez community!
 
-### If the server has less than 30 LRs, say the following. You should not delay for more than 10 minutes.**
+### If the server has less than 30 LRs, say the following. You should not delay for more than 10 minutes.
 
 **If there are still not enough LRs after delaying, make a support ticket in Discord to have corporate cancel. You can not cancel on your own.**
 
