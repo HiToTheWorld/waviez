@@ -55,7 +55,7 @@ Follow ALL trainer instructions and listen closely.
 
 **At this time, use the `!group` command to group the users into their training groups. Do not take too long between this and the next announcement.**
 
-Please remain seated. You are now in your training group.
+Please remain seated. You have now been assigned a group.
 
 When the doors open, you may get up and find your trainer in front of the stage.
 
@@ -67,4 +67,4 @@ Thank you for listening to the rules, punishments, and functions. You may now fi
 
 You may now make your way to the training rooms. Have a great session!
 
-**At the end of the session, if there is no HRD in your server, tell the Guidance corporate to ping a ranker, or call for one in #ranker-requests.**
+**At the end of the session, if there is no HRD in your server, tell an Overseer to ping a ranker, or call for one in #ranker-requests.**
